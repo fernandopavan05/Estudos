@@ -7,8 +7,9 @@
    
     body{
         box-sizing: border-box;
-        background-color: #000000
-        color: #f6f6f6;}
+        background-color: #000000;
+        color: #f6f6f6
+    } 
     
     .cabecalho{
         padding:2% 0% 0% 15%;}
